@@ -1,12 +1,12 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:ez_face_plugin/ez_face_plugin_method_channel.dart';
+import 'package:flutter_face_kit/flutter_face_kit_method_channel.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  MethodChannelEzFacePlugin platform = MethodChannelEzFacePlugin();
-  const MethodChannel channel = MethodChannel('ez_face_plugin');
+  MethodChannelFlutterFaceKit platform = MethodChannelFlutterFaceKit();
+  const MethodChannel channel = MethodChannel('flutter_face_kit');
 
   setUp(() {
     TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger.setMockMethodCallHandler(

@@ -1,4 +1,4 @@
-package com.example.ez_face_plugin_example
+package com.github.flutter_face_kit_example
 
 import io.flutter.embedding.android.FlutterActivity
 
