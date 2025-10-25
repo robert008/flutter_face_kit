@@ -97,17 +97,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-This project uses AI models from [InsightFace](https://github.com/deepinsight/insightface):
+### AI Models
+This project uses AI models from [InsightFace](https://github.com/deepinsight/insightface) (MIT License):
 - Face Detection Model (det_10g.onnx) - Buffalo_L model
 - Face Recognition Model (w600k_r50.onnx) - W600K ResNet50 model
 - 2D Landmark Model (2d106det.onnx) - 106-point landmark detector
-- Anti-Spoofing Models (fasnet_v1se.onnx, fasnet_v2.onnx)
+- Anti-Spoofing Models (fasnet_v1se.onnx, fasnet_v2.onnx) - FASNet
 
-InsightFace is licensed under the MIT License.
-
-Built with:
-- ONNX Runtime for model inference
-- OpenCV for image processing
+### Open Source Libraries
+- [ONNX Runtime](https://onnxruntime.ai/) (MIT License) - High-performance AI model inference engine
+- [OpenCV](https://opencv.org/) (Apache 2.0 License) - Computer vision and image processing library
 - Flutter FFI for native integration
 
 ## Contributing
