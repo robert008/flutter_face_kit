@@ -1,6 +1,14 @@
 # Flutter Face Kit
 
-A comprehensive on-device face recognition SDK for Flutter with real-time detection, landmark extraction, and facial recognition capabilities.
+## Disclaimer
+
+This repository is a **technical demo project** created for learning and showcase purposes.
+It is **independent from any company or commercial product**, and does not use any proprietary code or data.
+All AI models referenced (e.g. InsightFace, ONNX Runtime, OpenCV) are **open-source** and properly attributed.
+
+---
+
+A Flutter plugin showcasing on-device face recognition with real-time detection, landmark extraction, and facial recognition capabilities.
 
 ## Features
 
@@ -17,7 +25,7 @@ A comprehensive on-device face recognition SDK for Flutter with real-time detect
 - **Zero Server Dependency**: All processing happens on-device
 - **Optimized Performance**: 10x performance improvement (5s → 500ms)
 - **Privacy-First**: No data leaves the device
-- **Production Ready**: Includes face quality assessment and pose estimation
+- **Technical Demonstration**: Face quality assessment and pose estimation capabilities
 - **Native Integration**: Uses ONNX Runtime and OpenCV for optimal performance
 
 ## Architecture
@@ -120,3 +128,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **GitHub:** https://github.com/robert008
 
 For questions or feedback, please open an issue on GitHub.
+
+---
+
+## Third-Party Licenses
+
+- InsightFace — MIT License — https://github.com/deepinsight/insightface
+- ONNX Runtime — MIT License — https://github.com/microsoft/onnxruntime
+- OpenCV — Apache 2.0 License — https://github.com/opencv/opencv
