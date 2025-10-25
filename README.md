@@ -46,7 +46,7 @@ Add this to your package's `pubspec.yaml` file:
 dependencies:
   flutter_face_kit:
     git:
-      url: https://github.com/yourusername/flutter_face_kit.git
+      url: https://github.com/robert008/flutter_face_kit.git
 ```
 
 ## Usage
@@ -97,6 +97,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
+This project uses AI models from [InsightFace](https://github.com/deepinsight/insightface):
+- Face Detection Model (det_10g.onnx) - Buffalo_L model
+- Face Recognition Model (w600k_r50.onnx) - W600K ResNet50 model
+- 2D Landmark Model (2d106det.onnx) - 106-point landmark detector
+- Anti-Spoofing Models (fasnet_v1se.onnx, fasnet_v2.onnx)
+
+InsightFace is licensed under the MIT License.
+
 Built with:
 - ONNX Runtime for model inference
 - OpenCV for image processing
@@ -107,5 +115,9 @@ Built with:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
+
+**Author:** robert (robert008)
+**Email:** figo007007@gmail.com
+**GitHub:** https://github.com/robert008
 
 For questions or feedback, please open an issue on GitHub.

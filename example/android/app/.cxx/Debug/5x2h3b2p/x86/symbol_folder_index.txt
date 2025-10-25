@@ -1,0 +1,1 @@
+/Users/tinghuichuang/Documents/flutter/flutter_face_kit/example/build/app/intermediates/cxx/Debug/5x2h3b2p/obj/x86

@@ -1,0 +1,2 @@
+/Users/tinghuichuang/Documents/flutter/flutter_face_kit/example/android/app/.cxx/Debug/5x2h3b2p/x86_64/CMakeFiles/edit_cache.dir
+/Users/tinghuichuang/Documents/flutter/flutter_face_kit/example/android/app/.cxx/Debug/5x2h3b2p/x86_64/CMakeFiles/rebuild_cache.dir

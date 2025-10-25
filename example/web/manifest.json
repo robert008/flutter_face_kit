@@ -1,11 +1,11 @@
 {
-    "name": "ez_face_plugin_example",
-    "short_name": "ez_face_plugin_example",
+    "name": "flutter_face_kit_example",
+    "short_name": "flutter_face_kit_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Flutter Face Kit Example App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

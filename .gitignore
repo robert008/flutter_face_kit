@@ -39,3 +39,5 @@ CLAUDE.md
 .claude/
 *.iml
 releases/
+*.backup
+*.backup_*
