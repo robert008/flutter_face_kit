@@ -10,6 +10,20 @@ All AI models referenced (e.g. InsightFace, ONNX Runtime, OpenCV) are **open-sou
 
 A Flutter plugin showcasing on-device face recognition with real-time detection, landmark extraction, and facial recognition capabilities.
 
+## Demo
+
+🎥 **[Watch Live Demo](https://raw.githubusercontent.com/robert008/resume-assets/main/face-kit-demo/demo.MOV)** *(Click to download and play)*
+
+The demo video demonstrates:
+1. **Airplane Mode Enabled** - Proving 100% offline operation with no network dependency
+2. **Face Registration** - Real-time face capture and feature extraction
+3. **Face Recognition** - Instant matching against registered faces
+4. **Complete Flow** - End-to-end workflow running entirely on-device
+
+All processing happens locally on the device with zero server communication.
+
+---
+
 ## Features
 
 - **Face Detection**: High-accuracy face detection using optimized ONNX models
