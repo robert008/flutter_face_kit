@@ -12,7 +12,7 @@ A Flutter plugin showcasing on-device face recognition with real-time detection,
 
 ## Demo
 
-🎥 **[▶️ Watch Live Demo](https://github.com/robert008/resume-assets/blob/main/face-kit-demo/demo.MOV)** *(Click to watch in browser - no download needed)*
+https://github.com/user-attachments/assets/537e0717-5518-47de-a10f-bf19101cd51c
 
 The demo video demonstrates:
 1. **Airplane Mode Enabled** ✈️ - Proving 100% offline operation with no network dependency
